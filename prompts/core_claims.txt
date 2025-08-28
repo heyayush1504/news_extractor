@@ -1,0 +1,1 @@
+Extract the 3-5 main factual claims made in the following news article. List each claim as a bullet point. Do not include opinions or background information.

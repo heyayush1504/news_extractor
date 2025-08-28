@@ -1,0 +1,1 @@
+Analyze the language and tone of the following news article. Classify it as neutral, factual, persuasive, emotionally charged, or opinionated. Provide a brief explanation and examples from the text.

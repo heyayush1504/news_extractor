@@ -1,0 +1,1 @@
+Identify the key people, organizations, and locations mentioned in the following news article. Suggest what a reader should investigate about them (e.g., previous work, funding, reputation).
