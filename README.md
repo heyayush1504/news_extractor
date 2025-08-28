@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Digital Skeptic AI
+# Digital Skeptic AI  (valid for hindustan time news)
 
 A Django-based web application that performs critical analysis of news articles using AI. The application analyzes news articles for credibility, bias, and potential misinformation, generating detailed PDF reports stored in the `pdfs` folder.
 
