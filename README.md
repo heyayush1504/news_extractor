@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Skeptic AI
 
 A Django-based web application that performs critical analysis of news articles using AI. The application analyzes news articles for credibility, bias, and potential misinformation, generating detailed PDF reports stored in the `pdfs` folder.
@@ -112,3 +113,6 @@ Generated PDF reports can be found in the `pdfs` folder. Each report is named ba
 - Overall credibility assessment
 
 
+=======
+# news_extractor
+>>>>>>> 3c233087cc709eda8ee698525ab947c3d7a864a8
